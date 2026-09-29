@@ -30,3 +30,4 @@ cd frontend && npm install && npm run dev     # http://localhost:5173
 backend/app   main.py (routes) models.py schemas.py security.py seed.py database.py
 frontend/src  App.jsx store.jsx api.js pages/ components/ styles.css
 ```
+# iam_s3
